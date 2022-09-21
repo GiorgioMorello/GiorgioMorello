@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋, I'm Giorgio. 
+#### I'm starting my studies as a web developer
+![I'm starting my studies as a web developer](https://camo.githubusercontent.com/28a5af3160ab3e597abac96405057372584e2c7201457a505f20cbcdb4a25d73/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d626c75653f7374796c653d666c6174266c6f676f3d6c696e6b6564696e266c6162656c436f6c6f723d626c7565266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f6d616e756d616e6f6a303031302f)
 
-<!--
-**GiorgioMorello/GiorgioMorello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
 
-Here are some ideas to get you started:
+ ## Hard-Skills
+![github](https://raw.githubusercontent.com/manumanoj0010/manumanoj0010/main/images/python.png)
+![github](https://raw.githubusercontent.com/manumanoj0010/manumanoj0010/main/images/css.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
