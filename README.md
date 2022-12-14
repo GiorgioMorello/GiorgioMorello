@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Giorgio.
 #### I'm starting my studies as a web developer
-![I'm starting my studies as a web developer]
 
+### Principais tecnologias
 <div style="display: flex">
  <img align="center" alt="Giorgio-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="center" alt="Giorgio-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -11,13 +11,11 @@
 </div>
 
 ### About me
-- 🎓 I'm doing Computer Science college
-- ✍️ I've studied Python since 2021
-- 📝 I'm looking to pursue career as full-stack development
-- 🌐 My Website:  
- ## My tech list
-![github](https://raw.githubusercontent.com/manumanoj0010/manumanoj0010/main/images/python.png)
-![github](https://raw.githubusercontent.com/manumanoj0010/manumanoj0010/main/images/css.png)
+- 🎓 Cursando Ciência da Computação
+- ✍️ Estou estudando Python desde 2021
+- 📝 Estou buscando seguir carreira de desenvolvedor Full Stack
+- 🌐 My Website: ...
+
 
 
 
