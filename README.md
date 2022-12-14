@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Giorgio.
 
-### Principais tecnologias
+### Tech List
 <div style="display: flex">
  <img align="center" alt="Giorgio-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="center" alt="Giorgio-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -14,6 +14,10 @@
 - ✍️ Estou estudando Python desde 2021
 - 📝 Estou buscando seguir carreira de desenvolvedor Full Stack
 - 🌐 My Website: ...
+
+
+### Contact
+<img align="center" alt="my-contact" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 
 
 
