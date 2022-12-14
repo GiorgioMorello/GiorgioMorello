@@ -1,5 +1,4 @@
 ## Hi there 👋, I'm Giorgio.
-#### I'm starting my studies as a web developer
 
 ### Principais tecnologias
 <div style="display: flex">
