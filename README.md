@@ -1,5 +1,4 @@
 ## Hi there 👋, I'm Giorgio.
-https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg
 ### Tech List
 <div style="display: flex">
  <img align="center" alt="Giorgio-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
