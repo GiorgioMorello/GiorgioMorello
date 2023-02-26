@@ -10,6 +10,7 @@
 </div>
 
 ### Sobre mim
+- 📧 morellogiorgio327@gmail.com
 - 🎓 Cursando Ciência da Computação
 - ✍️ Estou estudando Python desde 2021
 - 📝 Estou buscando seguir carreira de desenvolvedor Full Stack
